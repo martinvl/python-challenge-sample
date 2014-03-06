@@ -1,5 +1,5 @@
 # Summing up
-You have a bunch of files with ten integers on each line, and want to calculate the sum of these ten integers for each line.
+You have a lot a text containing ten integers on each line, and you really want to calculate the sum of these ten integers for each line.
 
 Make a program that calculates the sum of the integers on each line.
 

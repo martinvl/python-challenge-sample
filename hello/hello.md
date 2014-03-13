@@ -1,4 +1,4 @@
-# Saying hello
+# Saying hello [sample]
 You want to test your programming skills by making a modified version of the classic `Hello, world!`-program. Your program should read a number _n_, and then print _n_ lines containing `Hello, world!`.
 
 ## Input
